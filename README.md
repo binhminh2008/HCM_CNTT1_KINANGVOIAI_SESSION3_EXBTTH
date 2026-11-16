@@ -109,7 +109,7 @@ Hi team, mình là lê hoàng minh, vừa tốt nghiệp nên chưa có kinh ngh
 [{"name": "Lê Hoàng Minh", "phone": "+84987654321", "email": null, "position": "Data Analyst", "experience_years": 0, "skills": ["Excel", "Power BI", "Python", "pandas"]}]
 ````
 
-## 5. Giải thích thiết kế (để học và trình bày)
+## 5. Giải thích thiết kế 
 
 | Thành phần CREATE | Vai trò trong prompt | Điểm then chốt |
 |---|---|---|
