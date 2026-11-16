@@ -17,7 +17,7 @@ Bộ phận HR của công ty công nghệ nhận rất nhiều email ứng tuy�
 2. Mỗi lượt, gửi nội dung email ứng tuyển thô làm tin nhắn người dùng.
 3. Lấy mảng JSON ở cuối kết quả để nạp vào database (kiểm tra bằng công cụ Validate JSON, mục 6).
 
-## 4. PROMPT HỆ THỐNG (sao chép nguyên khối bên dưới)
+## 4. PROMPT HỆ THỐNG 
 
 ````text
 # C - CONTEXT (Bối cảnh)
